@@ -69,4 +69,9 @@
   (pad "7" thru_hole oval (at 0 4) (size 3 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 3e9d46ab-6978-4d9d-91a6-6e27aabb138f))
   (pad "8" thru_hole oval (at 0 6) (size 3 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 8e39cb64-9fa5-4918-8c03-4ce8d5758536))
   (pad "9" thru_hole oval (at 0 8) (size 3 1.8) (drill 0.8) (layers *.Cu *.Mask) (tstamp 728e1633-0e3b-4c49-a767-0cb56e108c11))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_Card.3dshapes/microSD_HC_Hirose_DM3D-SF.wrl"
+    (offset (xyz 12.5 -0.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )
